@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\MakiGifs\MakiGifs\bin\Debug\MakiGifs.exe.config
+C:\Users\Usuario\source\repos\MakiGifs\MakiGifs\bin\Debug\MakiGifs.exe
+C:\Users\Usuario\source\repos\MakiGifs\MakiGifs\bin\Debug\MakiGifs.pdb
+C:\Users\Usuario\source\repos\MakiGifs\MakiGifs\bin\Debug\MakiGifs.xml
+C:\Users\Usuario\source\repos\MakiGifs\MakiGifs\obj\Debug\MakiGifs.Form1.resources
+C:\Users\Usuario\source\repos\MakiGifs\MakiGifs\obj\Debug\MakiGifs.Resources.resources
+C:\Users\Usuario\source\repos\MakiGifs\MakiGifs\obj\Debug\MakiGifs.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\MakiGifs\MakiGifs\obj\Debug\MakiGifs.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MakiGifs\MakiGifs\obj\Debug\MakiGifs.exe
+C:\Users\Usuario\source\repos\MakiGifs\MakiGifs\obj\Debug\MakiGifs.xml
+C:\Users\Usuario\source\repos\MakiGifs\MakiGifs\obj\Debug\MakiGifs.pdb
+C:\Users\Usuario\source\repos\MakiGifs\MakiGifs\obj\Debug\MakiGifs.Form2.resources
+C:\Users\Usuario\source\repos\MakiGifs\MakiGifs\obj\Debug\MakiGifs.Form3.resources
+C:\Users\Usuario\source\repos\MakiGifs\MakiGifs\obj\Debug\MakiGifs.Form4.resources
+C:\Users\Usuario\source\repos\MakiGifs\MakiGifs\obj\Debug\MakiGifs.Form5.resources
+C:\Users\Usuario\source\repos\MakiGifs\MakiGifs\obj\Debug\makigifs.vbprojAssemblyReference.cache
